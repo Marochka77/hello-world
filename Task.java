@@ -1,4 +1,3 @@
-package ua.karazin.rbecsfirst.ma;
 import java.util.Scanner; 
 
 public class Task {
